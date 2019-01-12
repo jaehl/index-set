@@ -1,0 +1,16 @@
+[package]
+
+name = "index-set"
+version = "0.1.0"
+authors = ["James Mills <james@jaehl.net>"]
+description = "An ordered set that stores indices in a sparse bit field."
+keywords = ["index", "set", "sparse", "bitfield"]
+categories = ["data-structures"]
+
+license = "MIT"
+readme = "README.md"
+documentation = "https://docs.rs/index-set"
+homepage = "https://github.com/jaehl/index-set"
+repository = "https://github.com/jaehl/index-set"
+
+edition = "2018"
